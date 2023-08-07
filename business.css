@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.subform {
+    background-color: rgb(151, 148, 148);
+    height: 570px;
+    width: 300px;
+}
+
+.available {
+    margin-left: 15px;
+}
+ul a {
+    display: block;
+    line-height: 45px;
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+.navigation {
+   
+    width: 90%;
+    height: 80px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    background-color: rgb(42, 43, 42);
+}
+.logo {
+    color: aliceblue;
+    font-size: 30px;
+}
+.logo span {
+    color:rgb(255, 166, 0)
+}
+.navigation ul {
+    list-style: none;
+    display: flex;
+}
+.navigation ul li {
+    padding: 30px;
+}
+.navigation ul li a {
+    text-decoration: none;
+    color: azure;
+    font-size: 20px;
+}
+.navigation ul li a:hover {
+    color:rgb(235, 133, 17);
+}
+.dede {
+    margin-left: 350px;
+    margin-top: -540px;
+}
+

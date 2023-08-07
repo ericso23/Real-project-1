@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.service1 {
+    width: 800px;
+    height: 400px;
+}
+.service2 {
+    width: 800px;
+    height: 400px;
+    
+}
+.service3 {
+    width: 800px;
+    height: 400px;
+   
+}
+.navigation {
+  
+   width: 90%;
+   height: 80px;
+   display:flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 5%;
+   background-color: rgb(42, 43, 42);
+}
+.logo {
+   color: rgb(241, 243, 245);
+   font-size: 30px;
+}
+.logo span {
+   color:rgb(255, 166, 0)
+}
+.navigation ul {
+   list-style: none;
+   display: flex;
+}
+.navigation ul li {
+   padding: 30px;
+}
+.navigation ul li a {
+   text-decoration: none;
+   color: rgb(207, 216, 216);
+   font-size: 20px;
+}
+.navigation ul li a:hover {
+   color:rgb(235, 133, 17);
+}
+.service11, .service22, .service33 {
+    text-align: center;
+}
